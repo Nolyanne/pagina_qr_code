@@ -1,0 +1,45 @@
+
+
+.body{
+    background-color: hsl(212, 45%, 89%);
+
+}
+
+
+@font-face {
+    font-family: 'Outfit';
+    src: url(https://fonts.google.com/specimen/Outfit);
+}
+
+.tabelaQRCode{
+    position: relative;
+    margin: auto;
+    border-radius: 20px;
+    background-color: hsl(0, 0%, 100%);
+    width: 20%;
+    height: 60%;
+    vertical-align: middle;
+    font-family: Outfit;
+    
+
+}
+.caixaQR{
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 10%;
+    height: 80%;
+    width: 80%;
+
+}
+
+.textoTitulo {
+    text-align: center;
+    font-weight: 700;
+    text-align: center;
+}
+
+.textoSecundario{
+    text-align: center;
+    font-weight: 400; 
+    text-align: center;
+}
